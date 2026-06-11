@@ -1,4 +1,4 @@
-# SmartPlate-AI
+# AutoVerify-ALPR
 
 ### OCR-Based Automatic License Plate Recognition and Vehicle Verification System
 
