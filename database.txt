@@ -1,0 +1,101 @@
+PlateNumber,OwnerName,VehicleModel,Status,FineAmount
+197C51008,Suyash Gupta,Toyota Fortuner,Blacklisted,5000
+MH12AB1234,Rahul Sharma,Honda City,Clear,0
+DL3CAY9324,Priya Verma,Maruti Swift,Penalty,1200
+KA01HH8822,Amit Patel,Hyundai Creta,Clear,0
+TN07BY0099,Suresh Raina,Tata Nexon,Penalty,2500
+WB02AD5566,Anjali Das,Verna,Blacklisted,0
+HR26DQ1122,Vikram Singh,Mahindra XUV700,Clear,0
+GJ01ER3344,Sneha Patel,Kia Seltos,Clear,0
+UP32FZ5577,Manoj Kumar,Scorpio N,Penalty,800
+KL07GA9900,Jithin Raj,Volkswagen Virtus,Clear,0
+AP09HT1212,Kiran Reddy,MG Hector,Blacklisted,15000
+TS08JU3434,Sandeep Rao,Skoda Slavia,Penalty,500
+BR01KV5656,Ravi Shankar,Bolero,Clear,0
+MP04LW7878,Deepak Chouhan,Thar,Clear,0
+RJ14MX9090,Pooja Sharma,Ertiga,Clear,0
+AS01NY1234,Bikas Gogoi,Alto K10,Clear,0
+OD02PZ5678,Sagar Jena,Punch,Penalty,450
+PB65QA1111,Harpreet Singh,Harrier,Clear,0
+JH01RB2222,Sanjay Mahato,Tiago,Clear,0
+CH01SC3333,Navjot Kaur,Celerio,Clear,0
+UK07TD4444,Rajesh Negi,Kwid,Blacklisted,0
+GA01UE5555,Maria Dsouza,Compass,Clear,0
+PY01VF6666,Ganesh Iyer,Innova Hycross,Clear,0
+JK02WG7777,Zuber Ahmed,Glanza,Penalty,2000
+ML05XH8888,Liza Sangma,Baleno,Clear,0
+MN01YI9999,James Singh,Fronx,Clear,0
+NL07ZJ0000,Kevi Angami,Jimny,Clear,0
+TR01AK1111,Biplab Deb,Ciaz,Clear,0
+MZ01BL2222,Zoram Thanga,Dzire,Penalty,1500
+AR01CM3333,Tashi Wangdu,Amaze,Clear,0
+MH01DN4444,Vijay Salgaonkar,EcoSport,Clear,0
+DL01EO5555,Suman Rawat,WagonR,Clear,0
+KA05FP6666,Srinivas Murthy,Kushaq,Blacklisted,0
+TN10GQ7777,Karthik Raja,Tigor,Clear,0
+WB01HR8888,Subrata Pal,Ignis,Clear,0
+HR51IS9999,Pawan Kalyan,Brezza,Clear,0
+GJ05JT0000,Hardik Shah,Venue,Clear,0
+UP16KU1111,Arun Tyagi,Carens,Penalty,3500
+KL01LV2222,Fahadh Faasil,Aura,Clear,0
+AP16MW3333,Chaitanya Akkineni,Grand i10,Clear,0
+TS10NX4444,Mahesh Babu,Altroz,Clear,0
+BR06OY5555,Nitish Yadav,Kiger,Clear,0
+MP09PZ6666,Indrajeet Singh,Magnite,Clear,0
+RJ01QA7777,Manish Gehlot,S-Presso,Clear,0
+AS05RB8888,Hemanta Sarma,Triber,Clear,0
+OD01SC9999,Naveen Patnaik,Bolero Neo,Clear,0
+PB10TD0000,Amrinder Gill,XUV300,Penalty,900
+JH05UE1111,Madan Lal,Sonet,Clear,0
+CH01VF2222,Kiran Kher,Taigun,Clear,0
+UK01WG3333,Pushkar Dhami,Safari,Clear,0
+MH04AB1010,Sandeep Patil,Creta,Clear,0
+DL8C AF2020,Rohan Mehra,City,Penalty,5000
+KA03 MG3030,Kavita Iyer,i20,Blacklisted,0
+TN01 BK4040,Arjun Das,XUV500,Clear,0
+GJ02 CR5050,Bhavin Shah,Swift,Clear,0
+UP14 DT6060,Sanjay Tyagi,Fortuner,Penalty,1500
+KL11 EU7070,Rahul Nair,Kushaq,Clear,0
+AP07 FV8080,Srinivas Rao,Baleno,Clear,0
+TS09 GW9090,Laxmi Devi,Seltos,Clear,0
+WB06 HX1122,Aritra Sen,Altroz,Blacklisted,0
+HR26 JY2233,Sunny Deol,Thar,Clear,0
+BR01 KZ3344,Pankaj Jha,Scorpio,Penalty,200
+MP09 LA4455,Vikram Rathore,Ertiga,Clear,0
+RJ14 MB5566,Sunita Yadav,Dzire,Clear,0
+AS01 NC6677,Jatin Baruah,Tiago,Clear,0
+OD02 PD7788,Manoj Das,Punch,Clear,0
+PB08 QE8899,Gurmukh Singh,Endeavour,Penalty,10000
+JH01 RF9900,Ritesh Mahto,Verna,Clear,0
+GA01 SG1212,Kevin Pereira,Compass,Clear,0
+UK07 TH2323,Deepak Negi,Kwid,Clear,0
+ML05 UI3434,Mary Kom,Alto,Clear,0
+MN01 VJ4545,Robert Singh,Glanza,Penalty,300
+NL07 WK5656,Sentila Ao,Jimny,Clear,0
+TR01 XL6767,Pranab Deb,Ciaz,Clear,0
+MZ01 YM7878,Lalsangzuala,Amaze,Clear,0
+AR01 ZN8989,Dorjee Khandu,Magnite,Blacklisted,0
+MH15 AA1011,Nitin Gadkari,Innova,Clear,0
+DL04 BB2022,Arvind Kejriwal,WagonR,Clear,0
+KA51 CC3033,Basavaraj Bommai,Fortuner,Clear,0
+TN02 DD4044,Stalin Raja,Safari,Penalty,4500
+GJ01 EE5055,Bhupendra Patel,S-Cross,Clear,0
+UP32 FF6066,Yogi Singh,Scorpio,Clear,0
+KL01 GG7077,Pinarayi Vijayan,Carnival,Clear,0
+AP16 HH8088,Jagan Reddy,Land Cruiser,Clear,0
+TS10 II9099,KCR Rao,Mercedes S-Class,Penalty,12000
+WB01 JJ1111,Mamata Banerji,Santro,Clear,0
+HR01 KK2222,Manohar Lal,Brezza,Clear,0
+BR01 LL3333,Nitish Kumar,Pajero,Clear,0
+MP01 MM4444,Shivraj Singh,XUV700,Blacklisted,0
+RJ01 NN5555,Ashok Gehlot,Innova,Clear,0
+AS01 OO6666,Himanta Biswa,Harrier,Clear,0
+OD01 PP7777,Naveen Patnaik,Bolero,Clear,0
+PB01 QQ8888,Bhagwant Mann,Fortuner,Clear,0
+JH01 RR9999,Hemant Soren,Safari,Clear,0
+CH01 SS1234,Kirron Kher,Audi A4,Penalty,600
+UK01 TT2345,Pushkar Singh,Duster,Clear,0
+GA01 UU3456,Pramod Sawant,Thar,Clear,0
+PY01 VV4567,N Rangaswamy,EcoSport,Clear,0
+JK01 WW5678,Omar Abdullah,Gypsy,Blacklisted,0
+HP01 XX6789,Sukhvinder Singh,Bolero,Clear,0
